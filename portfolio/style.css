@@ -416,7 +416,7 @@ footer {
     .about-content h3 {
         font-size: 2.6rem;
     }
-    .about-img {
+    .about-img img{
         width: 70vw;
         margin-top: 4rem;
     }
